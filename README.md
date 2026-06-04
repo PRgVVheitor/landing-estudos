@@ -6,6 +6,10 @@ Landing page responsiva para um aplicativo ficticio de organizacao de estudos.
 
 Praticar HTML semantico, CSS responsivo, composicao visual, secoes comerciais e interacoes simples com JavaScript.
 
+## Demo
+
+Link: https://prgvvheitor.github.io/landing-estudos/
+
 ## Funcionalidades
 
 - Hero com proposta de valor.
@@ -30,4 +34,3 @@ Abra o arquivo `index.html` no navegador.
 - Adicionar formulario real de captura de email.
 - Criar animacoes ao rolar a pagina.
 - Publicar no GitHub Pages.
-
